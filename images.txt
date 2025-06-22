@@ -1,1 +1,1 @@
-python:3.10-slim-bookworm
+gitlab/gitlab-ce:16.9.3
