@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:16.9.3-ce.0
+#gitlab/gitlab-ce:16.9.3-ce.0
+elasticsearch:7.16.3
